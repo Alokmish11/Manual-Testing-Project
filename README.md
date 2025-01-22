@@ -1,5 +1,5 @@
-# Manual-Testing-Project
-Vision Script web Application website
+# Vision Script web Application website Manual-Testing-Project
+
 # 🚀 Manual Testing Documentation for Login Module
 
 Welcome to the **Manual Testing Repository** for the **Login Module** of an e-commerce website! This repository includes all essential testing artifacts like the **Test Plan**, **Test Cases**, **Mind Map**, **Bug Reports**, and **Summary Reports**.
